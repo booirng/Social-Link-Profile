@@ -108,7 +108,7 @@ nav .link-container .links .link {
     font-family: "font";
 }
 
-.link:hover {
+nav .link-container .links .link:hover {
     color: var(--darkgrey);
     background-color: var(--green);
 }
